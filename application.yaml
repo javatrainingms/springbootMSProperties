@@ -1,3 +1,4 @@
+mydata: this is from config-server
 eureka:
   instance:
     prefer-ip-address: true
