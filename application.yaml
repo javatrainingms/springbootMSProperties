@@ -1,4 +1,5 @@
-mydata: this is from config-server
+employee:
+  message: "Hello from Cloud Config - Employee Service"
 eureka:
   instance:
     prefer-ip-address: true
